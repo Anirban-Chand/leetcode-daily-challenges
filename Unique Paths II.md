@@ -30,7 +30,7 @@ n == obstacleGrid[i].length\
 obstacleGrid[i][j] is 0 or 1.
 
 
-## CODE:
+## C++ CODE:
 ```
 class Solution {
 public:
